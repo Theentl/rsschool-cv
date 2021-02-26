@@ -13,7 +13,7 @@
    
    ---
    
-## Profile  
+### Profile  
    Purposeful and easily trained, I quickly master new skills. I am ready to bring any business to a productive end.
    I would like to develop the skills of a good developer, this school is a real godsend for me.  
    
