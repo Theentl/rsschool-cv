@@ -19,7 +19,6 @@ main {
   display: flex;
   background-color: rgba(0, 0, 0, 0.1);
   justify-content: initial;
-  align-items: space-between;
   flex-direction: row;
   height: 680px;
   width: 100%;
